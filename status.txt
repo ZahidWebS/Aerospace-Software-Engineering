@@ -1,1 +1,1 @@
-Aircraft status: Active
+Aircraft status: Flying
